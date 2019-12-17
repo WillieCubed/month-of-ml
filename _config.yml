@@ -8,6 +8,7 @@ master_repo: false
 url: "https://monthofml.williecubed.me"
 markdown: kramdown
 highlighter: rouge
+remote_theme: vinitkumar/white-paper
 
 plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
 
